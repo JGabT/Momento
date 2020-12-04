@@ -29,14 +29,5 @@
 - name: Dart
   weight: 1
 
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
 - name: C++
-  weight: 2
-
-- name: Ruby
   weight: 2
